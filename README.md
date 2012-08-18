@@ -1,13 +1,11 @@
-machine-learning-class
+euler-python
 ====
 
-This project contains my code for the programming exercises in the Stanford
-University Machine Learning class on Coursera.
+This project contains my code for solving the problems on Project Euler in
+Python.
 
-https://www.coursera.org/course/ml
+http://projecteuler.net/
 
 ### Usage
 
-All code was developed and tested on Octave 3.4.0.
-
-http://www.gnu.org/software/octave/
+All code was developed and tested on Python 2.6.1.
